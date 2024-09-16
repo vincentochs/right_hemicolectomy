@@ -1,0 +1,8 @@
+openpyxl
+joblib==1.2.0
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.4.2
+imbalanced-learn==0.12.2
+streamlit==1.36.0
+streamlit_option_menu==0.3.6
